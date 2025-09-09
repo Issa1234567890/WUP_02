@@ -25,6 +25,8 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+After looking at the data, I realized that I am working with numerical data (VitC) which was written in integers explained by categorical data (Cult). And so I decided to use the numerical~categorical data to be able to explain VitC (numerical) by Cult (catagorical), and thus I knew which helper file to work with to help me with this assignment.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
