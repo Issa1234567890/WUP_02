@@ -51,6 +51,8 @@ This boxplot is showing that the amount of VitC is dependent on the Cult method.
 favstats(VitC~Cult,data=veggy)
 ```
 
+The favstats showed the values of both Cult methods. While looking at them, I saw that the Q1 value of c52 method which is 58 is already larger than the Q3 value of c39 method which is 54.75, showing that c52 methods has more amount of VitC. Normally in this situation the statistical result show that c52 is significantly different than c39. 
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
