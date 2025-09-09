@@ -61,6 +61,8 @@ The favstats showed the values of both Cult methods. While looking at them, I sa
 t.test(VitC~Cult,data=veggy)
 ```
 
+The chances of getting a result like this is 0.00000003405. And when you get a p-value that is that small, then I can conclude that these two cult methods are significantly different.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
