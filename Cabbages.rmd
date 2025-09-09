@@ -66,3 +66,5 @@ The chances of getting a result like this is 0.00000003405. And when you get a p
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+After comparing both Cult methods using boxplot, favstats, and t-test. I was able to conclude that the VitC content depends on the Cult method. All of the methods supported that. The boxplot and the favstats showed that the Q1 of c52 which was 58 is higher than the Q3 of the c39 method which was 54.75, which showed me that there is a statistical difference between the two cult methods. Moreover, after making a t-test, I saw that the p-value was really small and was 0.00000003405, and when the p-value is that small, then that made me conclude that the two cult methods are significantly different.
