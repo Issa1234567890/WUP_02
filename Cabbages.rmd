@@ -41,6 +41,8 @@ After looking at the data, I realized that I am working with numerical data (Vit
 boxplot(VitC~Cult,data=veggy)
 ```
 
+This boxplot is showing that the amount of VitC is dependent on the Cult method. What I noticed and found out is that the first quartile of the c52 method is bigger that the third quartile of the c39 method, this means that the c52 is significantly more different than the c39 method.  
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
